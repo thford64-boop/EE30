@@ -8,3 +8,5 @@ pm2 start deleted_sends.js
 pm2 list         # see both running
 pm2 logs         # see combined logs
 pm2 save         # persist across reboots
+
+type !snipe for deleted sends or !menu for commands

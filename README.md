@@ -10,3 +10,5 @@ pm2 logs         # see combined logs
 pm2 save         # persist across reboots
 
 type !snipe for deleted sends or !menu for commands
+
+run pm2 resurrect to reload ITS NOT PM2 LOAD
